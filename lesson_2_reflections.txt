@@ -8,14 +8,21 @@ Staging area in an intermediary. It offers us to pack important changes in one.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+On each logical change we can add the file to staging area.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+A new extra experimental feature can be added without affecting main program 
+development. Branching adds a seperate path of code development.
 
 How do the diagrams help you visualize the branch structure?
+Very well
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Incorporating features developed independently.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+pros:Automatic commit saves time of programmer
+cons:Programmer does not get to know what has happend in his project.
